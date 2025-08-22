@@ -1,0 +1,12 @@
+# OS/editor
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# data (keep big files out of git)
+data/*
+*.csv
+*.parquet
+*.zip
+*.gz
