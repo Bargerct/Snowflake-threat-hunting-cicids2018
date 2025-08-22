@@ -10,8 +10,8 @@ Cloud-based threat hunting using Snowflake as a security data lake.
 ## Repo Contents
 - `queries/` – setup & hunts
 - `docs/hunt_reports.md` – hypothesis → query → evidence → conclusion
-- `images/` – screenshots (add via GitHub UI)
-- `data/README.md` – how to get the dataset (no large files in repo)
+- `images/` – screenshots 
+- `data/README.md` – how to get the dataset 
 
 ## Quick Start (Snowflake)
 1. Run `queries/00_setup_env.sql`
